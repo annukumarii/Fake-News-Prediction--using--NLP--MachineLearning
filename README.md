@@ -66,7 +66,7 @@ fake-news-detection/
 
 │── README.md         
 
-│── train.csv
+│── fake_and_real_news.csv
 
 
 ---
