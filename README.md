@@ -46,9 +46,6 @@ Contains news articles with labels:
 
 ○ Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/fake-news-detection.git
-cd fake-news-detection
-
 ○ Install Dependencies
 
 pip install -r requirements.txt
@@ -114,7 +111,7 @@ Metrics: Precision, Recall, F1-score
 
 ● Example Output
 
-✅ Accuracy: 92%
+Accuracy: 92%
 FAKE NEWS / REAL NEWS Prediction
 
 Test Example:
